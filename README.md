@@ -25,13 +25,13 @@ If you are a developer looking to contribute or experiment, the foundation is so
 
 ## Features
 
-- **Visual Node Editor** — Intuitive drag-and-drop interface powered by React Flow. Choose from over 80+ custom nodes to build out commands, events, and complex logic.
-- **Local SQLite Database** — Keep your data yours. Save unlimited projects, versions, and settings locally using a blazing fast SQLite database.
-- **Real-time Code Preview** — See your generated discord.js code update in real-time as you connect blocks on the canvas.
-- **Music Bot Ready** — Built-in support for advanced music features using robust extractors (YouTube, Spotify, SoundCloud) and @distube/ytdl-core.
-- **1-Click Export** — Get a complete, ready-to-run Discord bot project exported as a ZIP file.
-- **Integrated Test Runner** — Test your generated bot directly from the builder's interface without needing to manually run scripts.
-- **Discord-style UI** — A beautiful, dark-themed user interface that matches the native Discord aesthetic, built with TailwindCSS and shadcn/ui.
+- **Visual Node Editor** Intuitive drag-and-drop interface powered by React Flow. Choose from over 80+ custom nodes to build out commands, events, and complex logic.
+- **Local SQLite Database** Keep your data yours. Save unlimited projects, versions, and settings locally using a blazing fast SQLite database.
+- **Real-time Code Preview** See your generated discord.js code update in real-time as you connect blocks on the canvas.
+- **Music Bot Ready** Built-in support for advanced music features using robust extractors (YouTube, Spotify, SoundCloud) and @distube/ytdl-core.
+- **1-Click Export** Get a complete, ready-to-run Discord bot project exported as a ZIP file.
+- **Integrated Test Runner** Test your generated bot directly from the builder's interface without needing to manually run scripts.
+- **Discord-style UI** A beautiful, dark-themed user interface that matches the native Discord aesthetic, built with TailwindCSS and shadcn/ui.
 
 ## Quick Start
 
@@ -45,7 +45,7 @@ Getting started is easy. Since this is a monorepo containing both the frontend a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/discord-bot-builder.git
+   git clone https://github.com/theaveragelegs/Discord-Bot-Builder.git
    cd discord-bot-builder
    ```
 
